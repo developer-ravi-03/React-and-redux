@@ -1,0 +1,10 @@
+create vite app:-
+--> npm create vite@latest
+
+install node module 
+--> npm install
+
+for start
+--> npn run dev
+
+we can see documentation of vite also
