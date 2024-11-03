@@ -7,4 +7,6 @@ install node module
 for start
 --> npn run dev
 
-we can see documentation of vite also
+we can see documentation of vite website also
+
+# installion of bootstrap and its understanding on bootstrap website also
