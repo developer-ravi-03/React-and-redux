@@ -1,0 +1,41 @@
+#Create app
+--->npm create vite@latest
+
+
+cd file
+
+#install node modules
+--->npm install
+
+#for start server
+--->npm run dev
+
+#install bootstarp
+--->npm i bootstrap@5.3.3
+
+#import bootstart
+--->import 'bootstrap/dist/css/bootstrap.min.css'
+
+#use fragments
+
+1.import React
+--->import React from "react";
+---> for use :- <React.Fragment><React.Fragment/>
+
+2.without import React
+---> for use :- <></>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
