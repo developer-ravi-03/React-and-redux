@@ -26,6 +26,9 @@ cd file
 ---> for use :- <></>
 
 
+##Icons :- React icons
+---> npm install react-icons --save
+
 
 
 
