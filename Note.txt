@@ -30,6 +30,13 @@ cd file
 ---> npm install react-icons --save
 
 
+##React developer tools
+
+
+##Dummy Json Api 
+--->for dummy hata
+
+
 
 
 
