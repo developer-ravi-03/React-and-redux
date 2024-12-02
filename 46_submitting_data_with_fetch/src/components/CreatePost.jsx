@@ -47,7 +47,7 @@ const CreatePost = () => {
           </label>
           <input
             ref={userIDElement}
-            type="text"
+            type="number"
             placeholder="Your user id"
             className="form-control"
             id="userId"
@@ -83,7 +83,7 @@ const CreatePost = () => {
             Rections
           </label>
           <input
-            type="text"
+            type="number"
             placeholder="How many people reacted to this post"
             className="form-control"
             id="rections"
