@@ -41,6 +41,24 @@ cd file
 from official website
 
 
+##Redux Started
+lect 52
+
+#For create node project
+--> npm init -y
+
+# for install redux
+-->npm install redux
+
+we need 4 basic things:-
+1.reducer
+2.store
+3.subscriber
+4.actions
+
+#for run node file
+--> node <filename>
+
 
 
 
