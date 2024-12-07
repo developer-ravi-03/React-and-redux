@@ -59,6 +59,12 @@ we need 4 basic things:-
 #for run node file
 --> node <filename>
 
+##for React and redux 
+in notes or code
+
+##Redux Tool kit
+From notes
+
 
 
 
