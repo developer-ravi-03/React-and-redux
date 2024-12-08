@@ -65,6 +65,9 @@ in notes or code
 ##Redux Tool kit
 From notes
 
+for install
+-->npm install @reduxjs/toolkit
+
 
 
 
