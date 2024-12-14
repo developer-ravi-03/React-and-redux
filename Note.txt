@@ -69,9 +69,19 @@ for install
 -->npm install @reduxjs/toolkit
 
 
+project started 
+
+#backend file
+--> create vite project
+--> install bootstrap
+-->install react-redux
+-->install reduxjs/toolkit
+-->install react router dom
 
 
-
+IN main file two things are updated
+1.react router
+2. provider for redux
 
 
 
